@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Artefact
+comment1.params=name\ weight\ type\ value
+comment1.target=Artefact(java.lang.String,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=player
+comment3.target=java.lang.String\ getDescription(Player)
+comment3.text=The\ method\ 'getDescription'\ which\ is\ in\ the\ superclass\ is\ overrided\ below\ printing\ out\ information\ regarding\ the\ properties\ of\ the\ \r\nartefact\ object.
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5

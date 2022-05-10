@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Biome
+comment1.params=name\ NPC_1\ NPC_2\ guardian\ collectible_1\ collectible_2\ piece\ questions
+comment1.target=Biome(java.lang.String,\ Character,\ Character,\ Character,\ Collectible,\ Collectible,\ Collectible,\ Question)
+comment2.params=
+comment2.target=java.lang.String\ getBiomeName()
+comment3.params=
+comment3.target=Character\ getNPC_1()
+comment4.params=
+comment4.target=Character\ getNPC_2()
+comment5.params=
+comment5.target=Character\ getGuardian()
+comment6.params=
+comment6.target=Question\ getQuestions()
+comment7.params=
+comment7.target=Collectible\ getCollectible_1()
+comment8.params=
+comment8.target=Collectible\ getCollectible_2()
+comment9.params=
+comment9.target=Collectible\ getPiece()
+numComments=10

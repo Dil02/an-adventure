@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Question
+comment1.params=topic\ question1\ answer1\ question2\ answer2\ question3\ answer3
+comment1.target=Question(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=x
+comment2.target=java.lang.String\ getQuestion(int)
+comment3.params=x
+comment3.target=java.lang.String\ getAnswer(int)
+comment4.params=
+comment4.target=java.lang.String\ getTopic()
+numComments=5

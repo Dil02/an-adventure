@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name\ iQ\ strength
+comment1.target=Player(java.lang.String,\ int,\ int)
+comment2.params=locations\ j\ player
+comment2.target=int\ Quiz(Biome[],\ int,\ Character)
+comment2.text=The\ function\ 'Quiz'\ in\ the\ superclass\ 'Character'\ is\ overrided\ below\ in\ which\ the\ number\ of\ correct\ answers\ a\ player\ has\ is\ adjusted\r\nbased\ on\ their\ iQ\ as\ well\ as\ their\ health.
+comment3.params=player\ y
+comment3.target=int\ battle(Character,\ Character)
+comment3.text=\ The\ function\ 'battle'\ in\ the\ superclass\ 'Character'\ is\ overrided\ below\ in\ which\ the\ number\ of\ hits\ is\ multipled\ by\ '5'.\ Which\ represents\r\nhow\ much\ damage\ occurs\ everytime\ the\ player\ is\ hit.\ This\ value\ is\ then\ returned.
+comment4.params=
+comment4.target=void\ setCorrect()
+comment5.params=value
+comment5.target=void\ setScore(int)
+comment6.params=
+comment6.target=int\ getScore()
+comment7.params=
+comment7.target=int\ getCorrect()
+comment8.params=
+comment8.target=java.util.ArrayList\ getCollectible()
+numComments=9

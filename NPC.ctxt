@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NPC
+comment1.params=attack1\ attack2\ attack3\ state\ speciality\ name\ iQ\ strength
+comment1.target=NPC(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=locations\ j\ x
+comment2.target=int\ Quiz(Biome[],\ int,\ Character)
+comment2.text=The\ function\ 'Quiz'\ overrides\ the\ method\ in\ the\ 'Character'\ superclass\ and\ instead\ checks\ if\ the\ NPC's\ speciality\ matches\ the\ question\r\n\ \ \ \ topic\ and\ if\ so,the\ method\ returns\ '3'\ symbolising\ the\ NPC\ answered\ all\ questions\ correctly.\ Otherwise,\ a\ random\ number\ is\ generated\ \r\nfrom\ between\ 0-2\ and\ returned.
+comment3.params=player\ x
+comment3.target=Player\ interact(Player,\ Character)
+comment3.text=This\ function\ enables\ player\ interaction\ with\ an\ NPC\ and\ the\ player's\ iQ\ is\ adjusted\ as\ a\ reward\ for\ the\ interaction.
+comment4.params=x
+comment4.target=void\ setState(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getState()
+comment6.params=
+comment6.target=java.lang.String\ getSpeciality()
+comment7.params=i
+comment7.target=java.lang.String\ getAttack(int)
+numComments=8

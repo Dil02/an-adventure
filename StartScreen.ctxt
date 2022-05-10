@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StartScreen
+comment1.params=
+comment1.target=StartScreen()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\ This\ procedure\ is\ invoked\ when\ an\ action\ event\ is\ fired,\ what\ the\ method\ actually\ carries\ out\ is\ determined\ by\ which\ button\ is\ clicked\ \r\nby\ the\ user.
+comment3.params=
+comment3.target=java.lang.String\ inputText()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Potion
+comment1.params=effect\ type\ value
+comment1.target=Potion(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getEffect()
+comment3.params=player
+comment3.target=java.lang.String\ getDescription(Player)
+comment3.text=The\ method\ 'getDescription'\ which\ is\ in\ the\ superclass\ is\ overrided\ below\ printing\ out\ information\ regarding\ the\ properties\ of\ the\ \r\npotion\ object.
+numComments=4

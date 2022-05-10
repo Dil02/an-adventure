@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Archer
+comment1.params=state\ speciality\ name\ iQ\ strength
+comment1.target=Archer(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=player\ x
+comment2.target=Player\ interact(Player,\ Character)
+comment2.text=This\ function\ overrides\ the\ 'interact'\ method\ in\ the\ superclass\ 'NPC',\ and\ it\ modifies\ the\ player's\ inventory\ based\ on\ the\ value\ of\ \r\nthe\ boolean\ theft.
+numComments=3

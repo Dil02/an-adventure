@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=x\ y\ z
+comment1.target=Character(java.lang.String,\ int,\ int)
+comment10.params=value
+comment10.target=void\ setStrength(int)
+comment2.params=locations\ j\ x
+comment2.target=int\ Quiz(Biome[],\ int,\ Character)
+comment2.text=This\ function\ allows\ the\ user\ to\ complete\ a\ quiz,\ where\ the\ questions\ are\ printed\ and\ they\ are\ expected\ to\ input\ an\ answer.\r\nThe\ number\ of\ correct\ answer\ is\ returned."
+comment3.params=player\ y
+comment3.target=int\ battle(Character,\ Character)
+comment3.text=The\ function\ below\ enables\ the\ player\ to\ have\ a\ battle\ with\ the\ NPC,\ where\ they\ have\ to\ try\ to\ guess\ an\ integer\ within\ a\ given\ range\r\nand\ if\ successfull\ they\ dodge\ the\ attack.\ The\ number\ of\ times\ the\ player\ is\ hit\ is\ returned.
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=double\ getHealth()
+comment6.params=
+comment6.target=int\ getIQ()
+comment7.params=
+comment7.target=int\ getStrength()
+comment8.params=value
+comment8.target=void\ setHealth(double)
+comment9.params=value
+comment9.target=void\ setIQ(int)
+numComments=11
