@@ -17,5 +17,5 @@ This project involved:
 To get it working:
 
 Simply download this repository which contains all the necessary files to get you up and running.
-I recommend running the game in Blue J as I have provide the package file. 
+I recommend running the game in Blue J as I have provided the package file. 
 Lastly, compile and run the main method in the Game class.
