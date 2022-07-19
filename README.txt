@@ -1,7 +1,7 @@
 WELCOME TO AN ADVENTURE! - 16th April 2021
 
 'An Adventure' is a text based adventure game I developed in Java using Object Oriented principles. 
-The user travels around the world seeking the pieces of a mystical torch with the aiming of 
+The user travels around the world seeking the pieces of a mystical torch with the aim of 
 revealing the location of a great treasure!
 
 This project involved:
